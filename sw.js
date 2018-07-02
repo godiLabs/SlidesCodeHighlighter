@@ -28,19 +28,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.css",
-    "revision": "249b2c67979576bbc86ff8d2f9a0511a"
+    "revision": "a5d03d86fbf6a000a08715b8db4ec598"
   },
   {
     "url": "index.html",
-    "revision": "1b45e413f305f9d0e530f3aabe2e367e"
+    "revision": "18c3a1f19eb121066aea4911d1c636f7"
   },
   {
     "url": "index.js",
-    "revision": "a5d0c282f9dd9064c0ef44243a2b2c53"
+    "revision": "fa151dbec26acdd0ef435984aa2522ab"
   },
   {
     "url": "jquery.min.js",
     "revision": "a09e13ee94d51c524b7e2a728c7d4039"
+  },
+  {
+    "url": "material-colors.js",
+    "revision": "62d4d679092da70d66e51aa2752aa17f"
   },
   {
     "url": "mode-text.js",
@@ -57,6 +61,10 @@ self.__precacheManifest = [
   {
     "url": "theme-chrome.js",
     "revision": "e28d16cb55d12000ff675beae3b58d97"
+  },
+  {
+    "url": "themes.js",
+    "revision": "f903d130a4a1df683527a0b80d4ed247"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
