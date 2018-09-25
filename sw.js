@@ -24,7 +24,7 @@ workbox.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "ace.js",
-    "revision": "65f9756266d15d68961bbecf7d73d17d"
+    "revision": "83603cd2a06339a9e92b8f0aacec0033"
   },
   {
     "url": "index.css",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "18c3a1f19eb121066aea4911d1c636f7"
+    "revision": "2494bfdf0f236ee83eea1468f836f2fe"
   },
   {
     "url": "index.js",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
   },
   {
     "url": "mode-text.js",
-    "revision": "d41d8cd98f00b204e9800998ecf8427e"
+    "revision": "83d2fb76e83e27150c9b1bc87001459f"
   },
   {
     "url": "prettify-languages.js",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
   },
   {
     "url": "theme-chrome.js",
-    "revision": "e28d16cb55d12000ff675beae3b58d97"
+    "revision": "eb6b7b8e5d13d16573b94b69e73a33bc"
   },
   {
     "url": "themes.js",
